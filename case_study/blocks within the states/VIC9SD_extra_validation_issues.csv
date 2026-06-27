@@ -1,0 +1,302 @@
+school_name,too_small_area,is_sliver,short_edge,wrong_orientation,dup_id,nonmanifold_edge,acute_angle,excessive_precision,outside_bbox
+Koo Wee Rup Secondary College,True,False,True,True,,False,False,True,False
+Pakenham Secondary College,True,False,True,True,,False,False,True,False
+Phoenix P-12 Community College,True,False,True,True,,False,False,True,False
+Ballarat High School,True,False,True,True,,False,False,True,False
+Woodmans Hill Secondary College,True,False,True,True,,False,False,True,False
+Mount Rowan Secondary College,True,False,True,True,,False,False,True,False
+Bendigo South East 7-10 Secondary College,True,False,True,True,,False,False,True,False
+Weeroona College Bendigo,True,False,True,True,,False,False,True,False
+Crusoe 7-10 Secondary College,True,False,True,True,,False,False,True,False
+Eaglehawk Secondary College,True,False,True,True,,False,False,True,False
+East Loddon P-12 College,True,False,True,True,,False,False,True,False
+Wallan Secondary College,True,False,True,True,,False,False,True,False
+Surf Coast Secondary College,True,False,True,True,,False,False,True,False
+Colac Secondary College,True,False,True,True,,False,False,True,False
+Echuca College,True,False,True,True,,False,False,True,False
+Heywood District Secondary College,True,False,True,True,,False,False,True,False
+Fountain Gate Secondary College,True,False,True,True,,False,False,True,False
+Berwick Secondary College,True,False,True,True,,False,False,True,False
+South Oakleigh Secondary College,True,False,True,True,,False,False,True,False
+Broadford Secondary College,True,False,True,True,,False,False,True,False
+Northern Bay P-12 College,True,False,True,True,,False,False,True,False
+Myrtleford P-12 College,True,False,True,True,,False,False,True,False
+Drouin Secondary College,True,False,True,True,,False,False,True,False
+Mount Clear College,True,False,True,True,,False,False,True,False
+Beaufort Secondary College,True,False,True,True,,False,False,True,False
+Emerald Secondary College,True,False,True,True,,False,False,True,False
+Upwey High School,True,False,True,True,,False,False,True,False
+Trafalgar High School,True,False,True,True,,False,False,True,False
+Kurnai College,True,False,True,True,,False,False,True,False
+Mirboo North Secondary College,True,False,True,True,,False,False,True,False
+Yarram Secondary College,True,False,True,True,,False,True,True,False
+Lara Secondary College,True,False,True,True,,False,False,True,False
+Chaffey Secondary College,True,False,True,True,,False,False,True,False
+Red Cliffs Secondary College,True,False,True,True,,False,False,True,False
+Western Port Secondary College,True,False,True,True,,False,False,True,False
+Dandenong High School,True,False,True,True,,False,False,True,False
+Gleneagles Secondary College,True,False,True,True,,False,False,True,False
+Noble Park Secondary College,True,False,True,True,,False,False,True,False
+Lyndale Secondary College,True,False,True,True,,False,False,True,False
+Benalla P-12 College,True,False,True,True,,False,False,True,False
+Rochester Secondary College,True,False,True,True,,False,False,True,False
+Gisborne Secondary College,True,False,True,True,,False,False,True,False
+Daylesford Secondary College,True,False,True,True,,False,False,True,False
+Bellarine Secondary College,True,False,True,True,,False,False,True,False
+Cobram Secondary College,True,False,True,True,,False,False,True,False
+Camperdown College,True,False,True,True,,False,False,True,False
+Mortlake P-12 College,True,False,True,True,,False,False,True,False
+Oberon High School,True,False,True,True,,False,False,True,False
+Carwatha College P-12,True,False,True,True,,False,False,True,False
+Wellington Secondary College,True,False,True,True,,False,False,True,False
+Rowville Secondary College,True,False,True,True,,False,False,True,False
+Bentleigh Secondary College,True,False,True,True,,False,False,True,False
+Bairnsdale Secondary College,True,False,True,True,,False,False,True,False
+Brauer Secondary College,True,False,True,True,,False,False,True,False
+Mornington Secondary College,True,False,True,True,,False,False,True,False
+Lyndhurst Secondary College,True,False,True,True,,False,False,True,False
+Alexandra Secondary College,True,False,True,True,,False,False,True,False
+Wonthaggi Secondary College,True,False,True,True,,False,False,True,False
+Rosebud Secondary College,True,False,True,True,,False,False,True,False
+Dromana Secondary College,True,False,True,True,,False,False,True,False
+Somerville Secondary College,True,False,True,True,,False,False,True,False
+Newcomb Secondary College,True,False,True,True,,False,False,True,False
+Grovedale College,True,False,True,True,,False,False,True,False
+Patterson River Secondary College,True,False,True,True,,False,False,True,False
+Narre Warren South P-12 College,True,False,True,True,,False,False,True,False
+Hampton Park Secondary College,True,False,True,True,,False,False,True,False
+Orbost Secondary College,True,False,True,True,,False,False,True,False
+Bannockburn P-12 College,True,False,True,True,,False,False,True,False
+Belmont High School,True,False,True,True,,False,False,True,False
+Geelong High School,True,False,True,True,,False,False,True,False
+Elisabeth Murdoch College,True,False,True,True,,False,False,True,False
+Western Heights Secondary College,True,False,True,True,,False,False,True,False
+Cranbourne Secondary College,True,False,True,True,,False,False,True,False
+Cranbourne East Secondary College,True,False,True,True,,False,False,True,False
+Carrum Downs Secondary College,True,False,True,True,,False,False,True,False
+North Geelong Secondary College,True,False,True,True,,False,False,True,False
+Alkira Secondary College,True,False,True,True,,False,False,True,False
+Greater Shepparton College (interim name),True,False,True,True,,False,False,True,False
+Werribee Secondary College,True,False,True,True,,False,False,True,False
+Manor Lakes P-12 College,True,False,True,True,,False,False,True,False
+Alamanda K-9 College,True,False,True,True,,False,False,True,False
+Rowville Secondary College,True,False,True,True,,False,False,True,False
+Wheelers Hill Secondary College,True,False,True,True,,False,False,True,False
+Brentwood Secondary College,True,False,True,True,,False,False,True,False
+Monbulk College,True,False,True,True,,False,False,True,False
+Featherbrook P-9 College,True,False,True,True,,False,False,True,False
+Carranballac P-9 College,True,False,True,True,,False,False,True,False
+Brighton Secondary College,True,False,True,True,,False,False,True,False
+Point Cook Prep - Year 9 College,True,False,True,True,,False,False,True,False
+Scoresby Secondary College,True,False,True,True,,False,False,True,False
+Glen Eira College,True,False,True,True,,False,False,True,False
+Bacchus Marsh College,True,False,True,True,,False,False,True,False
+Wyndham Central Secondary College,True,False,True,True,,False,False,True,False
+Hoppers Crossing Secondary College,True,False,True,True,,False,False,True,False
+Mount Waverley Secondary College,True,False,True,True,,False,False,True,False
+Fairhills High School,True,False,True,True,,False,False,True,False
+Altona College,True,False,True,True,,False,False,True,False
+Highvale Secondary College,True,False,True,True,,False,False,True,False
+Ashwood High School,True,False,True,True,,False,False,True,False
+Carranballac P-9 College,True,False,True,True,,False,False,True,False
+Laverton P-12 College,True,False,True,True,,False,False,True,False
+Wantirna College,True,False,True,True,,False,False,True,False
+The Grange P-12 College,True,False,True,True,,False,False,True,False
+Boronia K-12 College,True,False,True,True,,False,False,True,False
+Baden Powell P-9 College,True,False,True,True,,False,False,True,False
+Truganina P-9 College,True,False,True,True,,False,False,True,False
+Bayswater Secondary College,True,False,True,True,,False,False,True,False
+Forest Hill College,True,False,True,True,,False,False,True,False
+Vermont Secondary College,True,False,True,True,,False,False,True,False
+Bayside P-12 College,True,False,True,True,,False,False,True,False
+Williamstown High School,True,False,True,True,,False,False,True,False
+Heathmont College,True,False,True,True,,False,False,True,False
+Auburn High School,True,False,True,True,,False,False,True,False
+Box Hill High School,True,False,True,True,,False,False,True,False
+Camberwell High School,True,False,True,True,,False,False,True,False
+Blackburn High School,True,False,True,True,,False,False,True,False
+Mullauna Secondary College,True,False,True,True,,False,False,True,False
+Tarneit P-9 College,True,False,True,True,,False,False,True,False
+Ringwood Secondary College,True,False,True,True,,False,False,True,False
+Melba Secondary College,True,False,True,True,,False,False,True,False
+Koonung Secondary College,True,False,True,True,,False,False,True,False
+Bayside P-12 College,True,False,True,True,,False,False,True,False
+Sunshine College,True,False,True,True,,False,False,True,False
+Balmoral K-12 Community College,True,False,True,True,,False,False,True,False
+Richmond High School,True,False,True,True,,False,False,True,False
+Norwood Secondary College,True,False,True,True,,False,False,True,False
+Kew High School,True,False,True,True,,False,False,True,False
+Yarra Hills Secondary College,True,False,True,True,,False,False,True,False
+Upper Yarra Secondary College,True,False,True,True,,False,False,True,False
+Mansfield Secondary College,True,False,True,True,,False,False,True,False
+Footscray City College,True,False,True,True,,False,False,True,False
+Collingwood College,True,False,True,True,,False,False,True,False
+Doncaster Secondary College,True,False,True,True,,False,False,True,False
+Princes Hill Secondary College,True,False,True,True,,False,False,True,False
+East Doncaster Secondary College,True,False,True,True,,False,False,True,False
+Sunshine College,True,False,True,True,,False,False,True,False
+Braybrook College,True,False,True,True,,False,False,True,False
+Yarra Hills Secondary College,True,False,True,True,,False,False,True,False
+Fitzroy High School,True,False,True,True,,False,False,True,False
+Maribyrnong Secondary College,True,False,True,True,,False,False,True,False
+Mooroolbark College,True,False,True,True,,False,False,True,False
+Lilydale High School,True,False,True,True,,False,False,True,False
+Northcote High School,True,False,True,True,,False,False,True,False
+Thornbury High School,True,False,True,True,,False,False,True,False
+Templestowe College,True,False,True,True,,False,False,True,False
+Sunshine College,True,False,True,True,,False,False,True,False
+Victoria University Secondary College,True,False,True,True,,False,False,True,False
+Warrandyte High School,True,False,True,True,,False,False,True,False
+St Albans Secondary College,True,False,True,True,,False,False,True,False
+Rosehill Secondary College,True,False,True,True,,False,False,True,False
+Essendon Keilor College,True,False,True,True,,False,False,True,False
+Mount Beauty Secondary College,True,False,True,True,,False,False,True,False
+Kerang Technical High School,True,False,True,True,,False,False,True,False
+Viewbank College,True,False,True,True,,False,False,True,False
+Copperfield College,True,False,True,True,,False,False,True,False
+Charles La Trobe P-12 College,True,False,True,True,,False,False,True,False
+Lilydale Heights College,True,False,True,True,,False,False,True,False
+Eltham High School,True,False,True,True,,False,False,True,False
+Reservoir High School,True,False,True,True,,False,False,True,False
+Macleod College,True,False,True,True,,False,False,True,False
+Greensborough Secondary College,True,False,True,True,,False,False,True,False
+Montmorency Secondary College,True,False,True,True,,False,False,True,False
+St Helena Secondary College,True,False,True,True,,False,False,True,False
+Diamond Valley College,True,False,True,True,,False,False,True,False
+Hazel Glen College,True,False,True,True,,False,False,True,False
+Lalor Secondary College,True,False,True,True,,False,False,True,False
+Lalor North Secondary College,True,False,True,True,,False,False,True,False
+Edgars Creek Secondary College,True,False,True,True,,False,False,True,False
+Epping Secondary College,True,False,True,True,,False,False,True,False
+The Lakes South Morang P-9 School,True,False,True,True,,False,False,True,False
+Healesville High School,True,False,True,True,,False,False,True,False
+Yea High School,True,False,True,True,,False,False,True,False
+Mernda Central P-12 College,True,False,True,True,,False,False,True,False
+Craigieburn Secondary College,True,False,True,True,,False,False,True,False
+Sunbury College,True,False,True,True,,False,False,True,False
+Mount Ridley P-12 College,True,False,True,True,,False,False,True,False
+Derrinallum P-12 College,True,False,True,True,,False,False,True,False
+Whittlesea Secondary College,True,False,True,True,,False,False,True,False
+Wedderburn College,True,False,True,True,,False,False,True,False
+Mckinnon Secondary College,True,False,True,True,,False,False,True,False
+University High School,True,False,True,True,,False,False,True,False
+Staughton College,True,False,True,True,,False,False,True,False
+Pyramid Hill College,True,False,True,True,,False,False,True,False
+Castlemaine Secondary College,True,False,True,True,,False,False,True,False
+Rushworth P-12 College,True,False,True,True,,False,False,True,False
+Beechworth Secondary College,True,False,True,True,,False,False,True,False
+Balwyn High School,True,False,True,True,,False,False,True,False
+Glen Waverley Secondary College,True,False,True,True,,False,False,True,False
+Elwood College,True,False,True,True,,False,False,True,False
+Albert Park College,True,False,True,True,,False,False,True,False
+Northern Bay P-12 College,True,False,True,True,,False,False,True,False
+Officer Secondary College,True,False,True,True,,False,False,True,False
+Bundoora Secondary College,True,False,True,True,,False,False,True,False
+Hume Central Secondary College,True,False,True,True,,False,False,True,False
+Thomastown Secondary College,True,False,True,True,,False,False,True,False
+Kambrya College,True,False,True,True,,False,False,True,False
+John Fawkner Secondary College,True,False,True,True,,False,False,True,False
+Mill Park Secondary College,True,False,True,True,,False,False,True,False
+William Ruthven Secondary College,True,False,True,True,,False,False,True,False
+Rainbow P-12 College,True,False,True,True,,False,False,True,False
+Ouyen P-12 College,True,False,True,True,,False,False,True,False
+Keysborough Secondary College,True,False,True,True,,False,False,True,False
+Mordialloc College,True,False,True,True,,False,False,True,False
+Keysborough Secondary College,True,False,True,True,,False,False,True,False
+Parkdale Secondary College,True,False,True,True,,False,False,True,False
+Cheltenham Secondary College,True,False,True,True,,False,False,True,False
+Sandringham College,True,False,True,True,,False,False,True,False
+Beaumaris Secondary College,True,False,True,True,,False,False,True,False
+Westall Secondary College,True,False,True,True,,False,False,True,False
+Mount Erin Secondary College,True,False,True,True,,False,False,True,False
+McClelland Secondary College,True,False,True,True,,False,False,True,False
+Monterey Secondary College,True,False,True,True,,False,False,True,False
+Mount Alexander 7-12 College,True,False,True,True,,False,False,True,False
+Brunswick Secondary College,True,False,True,True,,False,False,True,False
+Keilor Downs Secondary College,True,False,True,True,,False,False,True,False
+Glenroy Secondary College,True,False,True,True,,False,False,True,False
+Copperfield College,True,False,True,True,,False,False,True,False
+Melton Secondary College,True,False,True,True,,False,False,True,False
+Hume Central Secondary College,True,False,True,True,,False,False,True,False
+Kurunjang Secondary College,True,False,True,True,,False,False,True,False
+Sunbury Downs Secondary College,True,False,True,True,,False,False,True,False
+Gladstone Park Secondary College,True,False,True,True,,False,False,True,False
+Springside West Secondary College,True,False,True,True,,False,False,True,False
+Strathmore Secondary College,True,False,True,True,,False,False,True,False
+Frankston High School,True,False,True,True,,False,False,True,False
+Mount Eliza Secondary College,True,False,True,True,,False,False,True,False
+Buckley Park College,True,False,True,True,,False,False,True,False
+Essendon Keilor College,True,False,True,True,,False,False,True,False
+Creekside P-9 College,True,False,True,True,,False,False,True,False
+Brookside P-9 College,True,False,True,True,,False,False,True,False
+Coburg High School,True,False,True,True,,False,False,True,False
+Roxburgh College,True,False,True,True,,False,False,True,False
+Taylors Lakes Secondary College,True,False,True,True,,False,False,True,False
+Lowanna College,True,False,True,True,,False,False,True,False
+Warragul Regional College,True,False,True,True,,False,False,True,False
+Merbein P-10 College,True,False,True,True,,False,False,True,False
+Swan Hill College,True,False,True,True,,False,False,True,False
+Wycheproof P-12 College,True,False,True,True,,False,False,True,False
+Donald High School,True,False,True,True,,False,False,True,False
+Warrnambool College,True,False,True,True,,False,False,True,False
+Stawell Secondary College,True,False,True,True,,False,False,True,False
+Baimbridge College,True,False,True,True,,False,False,True,False
+Lake Bolac College,True,False,True,True,,False,False,True,False
+Hawkesdale P12 College,True,False,True,True,,False,False,True,False
+Dimboola Memorial Secondary College,True,False,True,True,,False,False,True,False
+Murtoa College,True,False,True,True,,False,False,True,False
+Goroke P-12 College,True,False,True,True,,False,False,True,False
+Leongatha Secondary College,True,False,True,True,,False,False,True,False
+Cohuna Secondary College,True,False,True,True,,False,False,True,False
+Lakes Entrance Secondary College,True,False,True,True,,False,False,True,False
+Neerim District Secondary College,True,False,True,True,,False,False,True,False
+Numurkah Secondary College,True,False,True,True,,False,False,True,False
+Birchip P-12 School,True,False,True,True,,False,False,True,False
+Charlton College,True,False,True,True,,False,False,True,False
+Boort District P-12 School,True,False,True,True,,False,False,True,False
+Irymple Secondary College,True,False,True,True,,False,False,True,False
+Ararat Secondary College,True,False,True,True,,False,False,True,False
+Maryborough Education Centre,True,False,True,True,,False,False,True,False
+Kyneton Secondary College,True,False,True,True,,False,False,True,False
+Seymour College,True,False,True,True,,False,False,True,False
+Timboon P-12 School,True,False,True,True,,False,False,True,False
+Terang College,True,False,True,True,,False,False,True,False
+Murrayville Community College,True,False,True,True,,False,False,True,False
+Nhill College,True,False,True,True,,False,False,True,False
+Nathalia Secondary College,True,False,True,True,,False,False,True,False
+Robinvale College,True,False,True,True,,False,False,True,False
+Western Port Secondary College,True,False,True,True,,False,False,True,False
+Wonthaggi Secondary College,True,False,True,True,,False,False,True,False
+Mallacoota P-12 College,True,False,True,True,,False,False,True,False
+Swifts Creek P-12 School,True,False,True,True,,False,False,True,False
+Foster Secondary College,True,False,True,True,,False,True,True,False
+Sale College,True,False,True,True,,False,False,True,False
+Rutherglen High School,True,False,True,True,,False,False,True,False
+Werrimull P-12 School,True,False,True,True,,False,False,True,False
+Wodonga Middle Years College,True,False,True,True,,False,False,True,False
+Corryong College,True,False,True,True,,False,False,True,False
+Yarrawonga College P-12,True,False,True,True,,False,False,True,False
+Lavers Hill K-12 College,True,False,True,True,,False,False,True,False
+Apollo Bay P-12 College,True,False,True,True,,False,False,True,False
+Kaniva College,True,False,True,True,,False,False,True,False
+Casterton Secondary College,True,False,True,True,,False,False,True,False
+Edenhope College,True,False,True,True,,False,False,True,False
+Cann River P-12 College,True,False,True,True,,False,True,True,False
+Portland Secondary College,True,False,True,True,,False,False,True,False
+Manangatang P-12 College,True,False,True,True,,False,True,True,False
+Tallangatta Secondary College,True,False,True,True,,False,False,True,False
+Lorne P-12 College,True,False,True,True,,False,False,True,False
+Traralgon College,True,False,True,True,,False,False,True,False
+Maffra Secondary College,True,False,True,True,,False,False,True,False
+Kurnai College,True,False,True,True,,False,False,True,False
+Horsham College,True,False,True,True,,False,False,True,False
+St Arnaud Secondary College,True,False,True,True,,False,False,True,False
+Kyabram P-12 College,True,False,True,True,,False,False,True,False
+Warracknabeal Secondary College,True,False,True,True,,False,False,True,False
+Bright P-12 College,True,False,True,True,,False,False,True,False
+Korumburra Secondary College,True,False,True,True,,False,False,True,False
+Euroa Secondary College,True,False,True,True,,False,False,True,False
+Wangaratta High School,True,False,True,True,,False,False,True,False
+Cobden Technical School,True,False,True,True,,False,False,True,False
+Tyrrell College,True,False,True,True,,False,False,True,False
+Hopetoun P-12 College,True,False,True,True,,False,False,True,False
