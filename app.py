@@ -23,7 +23,7 @@ try:
     from validation_rules import RULES
 except Exception:
     RULES = {}
-from utils.registry_db import ensure_schema_planB, upsert_dataset_row, begin_run, write_violations, finish_run
+from utils.registry_db import (ensure_schema_planB, upsert_dataset_row, begin_run, write_violations, finish_run)
 HIDE_RULE_PICKER = False  
 def build_rule_name_map(dtype: str) -> "OrderedDict[str, str]":
     base = OrderedDict([("Auto (based on dataset type)", "auto")])
